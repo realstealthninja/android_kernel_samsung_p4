@@ -31,6 +31,7 @@
 #include <linux/usb/ulpi.h>
 #include <asm/mach-types.h>
 #include <mach/usb_phy.h>
+#include <mach/usb_phy.h>
 #include <mach/iomap.h>
 #include <mach/pinmux.h>
 #include "fuse.h"
